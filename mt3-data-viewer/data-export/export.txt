@@ -1,0 +1,7 @@
+# Please execute this file in EU4's console
+
+log = "====== DUMP MY Province ========="
+
+every_owned_province = {
+    log = "DEBUG:[GetYear] ^ [GetDateText] ^ [This.GetName] ^ [This.GV_ID_Prov] ^ [This.asn.GetValue] ===="
+}
